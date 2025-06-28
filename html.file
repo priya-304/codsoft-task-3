@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Priyadharshini K | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>PRIYADHARSHINI K</h1>
+    <p class="tagline">Aspiring AI & Web Developer | Driven by Innovation and Clean Design</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <img src="priya.jpg" alt="Priya Dharshini Photo" />
+    <p>
+      I am an enthusiastic and detail-oriented learner currently mastering HTML, Database Management Systems, SQL, and Python.
+      Passionate about creating efficient web solutions and managing data effectively. Eager to apply knowledge in real-world
+      projects and enhance problem-solving skills.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML5 & CSS3</li>
+      <li>Python, Java, SQL</li>
+      <li>Responsive Web Design</li>
+      <li>React JS</li>
+      <li>Jupyter Notebook, VS Code</li>
+      <li>Communication Skills</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Automatic Vacuum and Floor Cleaning Robot</h3>
+      <p>It seems like you've summarized the advantages and potential of using robots for cleaning
+ purposes. Your points cover various aspects such as efficiency, cost-effectiveness,
+ applicability in hospitals, accessibility, and benefits for different demographics like the elderly
+ and people with disabilities. If you're looking to expand on this, you could delve into specific
+ examples or case studies showcasing the effectiveness of such technology in real-world
+ scenarios. Additionally, considering the evolving nature of technology, discussing potential
+ future advancements and adaptations could enhance your conclusion. </p>
+      <img src="auto.png" alt="Vacuum Robot Project" />
+    </div>
+    <div class="project">
+      <h3>Flick Find: Movie Discovery App</h3>
+      <p>The Movie Search App aims to provide users with a user
+friendly platform to easily find information about movies,
+ including titles, release dates, ratings, posters, and
+ summaries. It focuses on streamlining the movie discovery
+ process and enhancing user engagement with a visually
+ appealing interface</p>
+      <img src="flick finder.png" alt="Flick Find Project" />
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p>You can download my resume here:</p>
+    <a href="priyadharshini k resume 304.pdf" download class="btn-resume">Download Resume</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:jananipriya0307@gmail.com">jananipriya0307@gmail.com</a></p>
+    <p>Phone: 9629096790</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/priya-dharshini-7738492a8/" target="_blank">linkedin.com/in/priya-dharshini</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Priyadharshini K. Built with 💖 using HTML & CSS.</p>
+    <a href="#top">Back to top ↑</a>
+  </footer>
+</body>
+</html>
